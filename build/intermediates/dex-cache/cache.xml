@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hyan Tandra\.android\build-cache\8f3b34db593cae1dc6c7e7009eae8c6a3db2820c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="D:\PKL\android-Aplikasi-CRUD-MySQL\app\build\intermediates\pre-dexed\debug\classes_6f167d0101270209f25409a85defc9313af57a9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hyan Tandra\.android\build-cache\5e6db29d2e512c99b49132fe04cf6792162c1b80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="D:\PKL\android-Aplikasi-CRUD-MySQL\app\build\intermediates\pre-dexed\debug\classes_25496bbc9c9b4669f8e012712462814f757cd80a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hyan Tandra\.android\build-cache\3445c1b7aa1a62731e89c2ec261c62c82275d1c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="D:\PKL\android-Aplikasi-CRUD-MySQL\app\build\intermediates\pre-dexed\debug\classes_ebc0a404b1fa122553f97029b4372f98f92c307f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hyan Tandra\.android\build-cache\31685877a8b94078e175b77da8bc400e6b30ef90\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="D:\PKL\android-Aplikasi-CRUD-MySQL\app\build\intermediates\pre-dexed\debug\classes_bf935c6f3db5ad0a3fe145a6c73657856182305f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hyan Tandra\.android\build-cache\2cfb2bc2aa3d28f06b5d56620d39b7845fcdab22\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="D:\PKL\android-Aplikasi-CRUD-MySQL\app\build\intermediates\pre-dexed\debug\classes_dda3b9e267dcedae53c5d8af588d72eba4985f03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hyan Tandra\.android\build-cache\b2bc76d51d5c78cb94b1b635c96efe0e43a4d1f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="D:\PKL\android-Aplikasi-CRUD-MySQL\app\build\intermediates\pre-dexed\debug\classes_04c0a759b8b5f2334ecfe60beb1023b732c00752.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hyan Tandra\.android\build-cache\1b0ce5321d2e2d1105553885be688437354c99c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="D:\PKL\android-Aplikasi-CRUD-MySQL\app\build\intermediates\pre-dexed\debug\classes_2716fd6cd77c62936f97f51e943855ce1110ba30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hyan Tandra\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="D:\PKL\android-Aplikasi-CRUD-MySQL\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_47b331827ac8382b5e6b40771d8a1a1390ea43da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hyan Tandra\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="D:\PKL\android-Aplikasi-CRUD-MySQL\app\build\intermediates\pre-dexed\debug\common-1.0.0_f7f931548534b5d5198bab7aa72f996024993cc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hyan Tandra\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="D:\PKL\android-Aplikasi-CRUD-MySQL\app\build\intermediates\pre-dexed\debug\common-1.0.0_54788f24b2abc20dc0253e79cc6e28c67fbb2854.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hyan Tandra\.android\build-cache\fc1db4b19cbfe244c33816a8c2fc8a3c50b7db23\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="D:\PKL\android-Aplikasi-CRUD-MySQL\app\build\intermediates\pre-dexed\debug\classes_11f60e7600faedc16a1ab7086783bdf66f0c261c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hyan Tandra\.android\build-cache\85b7bdb5cae98758f81af818a7ca33d469010a23\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\PKL\android-Aplikasi-CRUD-MySQL\app\build\intermediates\pre-dexed\debug\classes_478d320c21959f23c40ee617386e571ad45c1964.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hyan Tandra\.android\build-cache\1e36682250cba5b1574390fbc111347d5c7982ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\PKL\android-Aplikasi-CRUD-MySQL\app\build\intermediates\pre-dexed\debug\classes_0ed949ed2af53b9b6384055eea307291c9de1463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hyan Tandra\.android\build-cache\2cadfca40b08e36de63c430d2b46e4d7e3b3d3db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="D:\PKL\android-Aplikasi-CRUD-MySQL\app\build\intermediates\pre-dexed\debug\classes_0d7eaf59f1d0dae69ca559a1193df289db5d47f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hyan Tandra\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\PKL\android-Aplikasi-CRUD-MySQL\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_4a7313878ac79988a036aa1fe1d9558c4465a2d5.jar" />
+    </item>
+
+</items>
